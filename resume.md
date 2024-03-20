@@ -3,14 +3,14 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Your Resume in Markdown
-description-meta: 'Bronte Sihan Li's resume
+title: Bronte Sihan Li
+description-meta: Bronte Sihan Li's resume
 keywords:
   - 'python'
   - 'ai'
   - 'llm'
 author:
-- Bronte Sihan Li
+  - Bronte Sihan Li
 subject: 'Bronte Sihan Li Resume'
 ---
 ###### [[bronteli.com](https://bronteli.com)] . [ brontelee1323001@gmail.com] . [ 206 953 6073 ]
